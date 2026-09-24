@@ -16,14 +16,14 @@ A curated portfolio of high-impact work spanning NPI quality, supplier quality, 
 
 | Project | Engineering signal | Outcome highlighted |
 |---|---|---|
-| [01 — NPI Quality Framework](01-npi-quality-framework/README.md) | Built a repeatable quality gate from prototype through mass production | Risk-based controls and production readiness |
-| [02 — PCBA Quality & Reliability](02-pcba-quality-reliability/README.md) | Applied IPC standards and led test/qualification thinking | Stronger test coverage and reliability evidence |
-| [03 — Supplier Quality / SCAR](03-supplier-quality-scar/README.md) | Drove containment, RCA and supplier corrective action | Reduced escape risk and verified supplier fixes |
-| [04 — Statistical Quality Analysis](04-statistical-quality-analysis/README.md) | Used sampling, yield and MSA methods for decisions | Data-driven disposition instead of subjective calls |
-| [05 — MRB / NCMR Disposition](05-mrb-ncmr-disposition/README.md) | Created structured decision logic for defects | Faster, consistent material disposition |
-| [06 — Cable & Harness Quality](06-cable-harness-quality/README.md) | Evaluated crimp, solder splice and rework quality | Robust rework acceptance criteria |
-| [07 — Reliability Engineering](07-reliability-engineering/README.md) | Structured shock, vibration and thermal validation | Evidence-based reliability decisions |
-| [08 — Six Sigma DMAIC](08-six-sigma-dmaic/README.md) | End-to-end DMAIC case study | Sustained process improvement |
+| [01 — NPI Quality Framework](01-npi-quality-framework.md) | Built a repeatable quality gate from prototype through mass production | Risk-based controls and production readiness |
+| [02 — PCBA Quality & Reliability](02-pcba-quality-reliability.md) | Applied IPC standards and led test/qualification thinking | Stronger test coverage and reliability evidence |
+| [03 — Supplier Quality / SCAR](03-supplier-quality-scar.md) | Drove containment, RCA and supplier corrective action | Reduced escape risk and verified supplier fixes |
+| [04 — Statistical Quality Analysis](04-statistical-quality-analysis.md) | Used sampling, yield and MSA methods for decisions | Data-driven disposition instead of subjective calls |
+| [05 — MRB / NCMR Disposition](05-mrb-ncmr-disposition.md) | Created structured decision logic for defects | Faster, consistent material disposition |
+| [06 — Cable & Harness Quality](06-cable-harness-quality.md) | Evaluated crimp, solder splice and rework quality | Robust rework acceptance criteria |
+| [07 — Reliability Engineering](07-reliability-engineering.md) | Structured shock, vibration and thermal validation | Evidence-based reliability decisions |
+| [08 — Six Sigma DMAIC](08-six-sigma-dmaic.md) | End-to-end DMAIC case study | Sustained process improvement |
 
 ## Methods & tools
 
