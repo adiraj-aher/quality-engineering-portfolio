@@ -31,4 +31,4 @@ A curated portfolio of high-impact work spanning NPI quality, supplier quality, 
 
 ## About me
 
-Manufacturing Quality Engineer with a Master’s in Engineering Management and hands-on experience across NPI, supplier quality, manufacturing quality, electromechanical products, PCBA, cable/harness assemblies, and reliability validation.
+Quality Engineer with a Master’s in Engineering Management and hands-on experience across NPI, supplier quality, manufacturing quality, electromechanical products, PCBA, cable/harness assemblies, and reliability validation.
